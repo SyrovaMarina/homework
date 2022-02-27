@@ -1,0 +1,28 @@
+.localli {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.localli__text_block {
+  width: 1012px;
+}
+
+.localli__image_block {
+  width: 817px;
+  margin-top: 89px;
+}
+
+.localli__header {
+  text-align: center;
+  opacity: 0.5;
+  font-size: 16px;
+  margin-top: 69px;
+}
+
+.localli__description {
+  text-align: justify;
+  font-size: 61px;
+  line-height: 73.2px;
+  width: 1012px;
+  margin-top: 4px;
+}

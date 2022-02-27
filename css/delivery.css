@@ -1,0 +1,57 @@
+.delivery {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.delivery_background {
+  background-color: #fafafa;
+}
+
+.delivery__text_block {
+  text-align: center;
+  margin-top: 135px;
+}
+
+.delivery__header {
+  text-align: center;
+  opacity: 0.5;
+  font-size: 16px;
+  width: 93px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.delivery__description {
+  text-align: center;
+  font-size: 61px;
+  line-height: 73.2px;
+  width: 525px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4px;
+}
+
+.delivery__step {
+  display: inline-block;
+  width: 30%;
+}
+
+.delivery_image {
+  height: 210px;
+  margin-top: 95px;
+}
+
+.delivery__image_text {
+  padding-top: 40px;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+}
+
+.delivery_step_description {
+  padding-top: 12px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+}

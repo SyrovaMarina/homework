@@ -1,0 +1,14 @@
+.promo {
+}
+
+.promo__list {
+  list-style: none;
+  text-align: center;
+  padding: 0 40px 40px 40px;
+}
+
+.promo__listItem {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+}

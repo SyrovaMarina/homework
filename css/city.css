@@ -1,0 +1,31 @@
+.city__main {
+  padding: 50px 206px 50px 206px;
+}
+
+.city__header {
+  font-size: 61px;
+  text-align: center;
+}
+
+.city__description {
+  width: 510px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 23px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.city__small_descriptions {
+  margin-top: 12px;
+  margin-bottom: 25px;
+}
+
+.city__name {
+  margin-left: 5px;
+}
+
+.city__image {
+  height: 636px;
+}

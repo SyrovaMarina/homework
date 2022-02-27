@@ -1,0 +1,32 @@
+.header {
+  height: 93px;
+  line-height: 93px;
+}
+
+.header_buttons {
+  float: right;
+}
+
+.header__logo {
+  float: left;
+}
+
+.header__logo_image {
+  margin-top: 25px;
+}
+
+.header__menu {
+  font-size: 15px;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  width: 153px;
+  height: 43px;
+  line-height: 43px;
+  text-align: center;
+}

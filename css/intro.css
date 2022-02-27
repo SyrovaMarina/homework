@@ -1,0 +1,52 @@
+.intro {
+  margin-top: 54px;
+  text-align: center;
+}
+
+.intro__header {
+  opacity: 50%;
+  font-size: 16px;
+}
+
+.intro__center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro__text_big {
+  margin-top: 5px;
+  font-size: 64px;
+  line-height: 76.8px;
+  width: 554px;
+}
+
+.intro__text_small {
+  font-size: 16px;
+  line-height: 24px;
+  width: 717px;
+}
+
+.intro__buttons {
+  margin-top: 36px;
+}
+
+.intro__btn {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  width: 153px;
+  height: 43px;
+  line-height: 43px;
+  text-align: center;
+}
+
+.intro__how_it_works {
+  display: inline-block;
+  height: 20px;
+  width: 91px;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  margin-left: 32px;
+}

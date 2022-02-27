@@ -1,0 +1,24 @@
+/* @import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap"); */
+@import url("/css/header.css");
+@import url("/css/intro.css");
+@import url("/css/promo.css");
+@import url("/css/localli.css");
+@import url("/css/delivery.css");
+@import url("/css/tracking.css");
+@import url("/css/city.css");
+@import url("/css/affordable_delivery.css");
+@import url("/css/faq.css");
+@import url("/css/get_started.css");
+@import url("/css/and.css");
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0px 100px 0px 100px;
+}
+
+div {
+  /* border: 1px solid; */
+}

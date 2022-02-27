@@ -1,0 +1,50 @@
+.get_started {
+  background: #fbfbfb;
+  border-radius: 25px;
+}
+
+/* .get_started__text_block {
+  text-align: left;
+} */
+
+.get_started__pre_header {
+  opacity: 0.5;
+  font-size: 16px;
+  padding-left: 90px;
+  padding-top: 102px;
+  width: 111px;
+}
+
+.get_started__header {
+  font-size: 61px;
+  width: 447px;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 5px;
+  font-size: 61px;
+  line-height: 73px;
+}
+
+.get_started__description {
+  font-size: 16px;
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 23px;
+  width: 510px;
+  padding-bottom: 18px;
+}
+
+.get_started__button {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  font-size: 15px;
+  width: 153px;
+  text-align: center;
+  line-height: 43px;
+  margin-left: 90px;
+}
+
+.started__image {
+  width: 549px;
+}
