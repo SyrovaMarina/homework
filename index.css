@@ -1,1 +1,42 @@
 @import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+
+.pricing__description {
+  text-align: center;
+  margin-top: 71px;
+}
+
+.pricing__period {
+  display: flex;
+  justify-content: center;
+  margin-top: 44px;
+}
+
+.pricing__period_item {
+  /*flex: 1;*/
+}
+
+.pricing__period_item_left {
+  text-align: right;
+  margin-right: 24px;
+}
+
+.pricing__period_item_right {
+  text-align: left;
+  margin-left: 24px;
+}
+
+.pricing__period_item_center {
+  text-align: center;
+}
+
+.pricing__profile {
+  margin-top: 69px;
+  display: flex;
+  justify-content: center;
+}
+
+.pricing__profile_item {
+  width: 350px;
+  border: 1px solid;
+  text-align: center;
+}
